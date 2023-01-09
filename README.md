@@ -9,4 +9,4 @@ In this repo, you will find
 
 If you want to learn more about Acconeer's sensors, tools and algorithms, please visit the [Documentation site](https://docs.acconeer.com/en/latest/).
 
-For information on what hardware to get and how to get started with the sensor, please visit [Acconeer's Innovation Lab](https://www.acconeer.com/innovation_lab/carpet-detection/).
+For information on what hardware to get and how to get started with the sensor, please visit [Acconeer's Innovation Lab](https://www.acconeer.com/innovation_lab/grass-detection/).
